@@ -3,5 +3,9 @@ first commit
 second commit
 third commit
 fourth commit
+<<<<<<< HEAD
 hit 
 fgd
+=======
+reverting
+>>>>>>> parent of 25c8fde (Revert "reverting")
